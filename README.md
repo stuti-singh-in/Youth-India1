@@ -22,7 +22,7 @@ This implementation will exchange the code parameter for an access token using t
 
 Note: Make sure to replace your_client_id, your_client_secret, and your_redirect_url with the appropriate values from your Google Cloud Console
 
-
+___________________________________________________________________________________________________________________________________________
 Task 2 - Frontend 
 Create a React.Js application in which you will use any open API, E.g., Pokemon Api fetch its
 data and paginate the result with a live search feature and also make another page in that
